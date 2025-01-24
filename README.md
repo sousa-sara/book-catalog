@@ -10,8 +10,8 @@ A **Book Catalog API** é uma API RESTful desenvolvida para gerenciar um catálo
 - **Java 17**: Linguagem de programação utilizada para o desenvolvimento da API.
 - **Spring Data JPA**: Biblioteca que facilita a interação com o banco de dados e a persistência de objetos.
 - **Maven**: Gerenciador de dependências para o projeto.
-- **Oracle DataBase**: Banco de dados usado.
-- **Postman** ou **Insomnia**: Ferramentas recomendadas para testar os endpoints da API.
+- **MySQL**: Banco de dados usado.
+- **Postman**: Ferramenta usada e recomendada para testar os endpoints da API.
 
 ## Funcionalidades da API
 
